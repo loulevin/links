@@ -13,9 +13,50 @@
     },
     {
         "category": "Documentation",
+        "subcategory": "GIT",
+        "url": "https://gist.github.com/rxaviers/7360908",
+        "title": "GIT Emojis"
+    },  {
+        "category": "Documentation",
+        "subcategory": "GIT",
+        "url": "https://ndpsoftware.com/git-cheatsheet.html#loc=index",
+        "title": "GIT Cheatsheet"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "http://justinhileman.info/article/git-pretty/git-pretty.png",
+        "title": "GIT Command Schema"
+    },
+    {
+        "category": "Documentation",
         "subcategory": "HTML/CSS",
         "url": "https://www.w3schools.com/",
         "title": "W3school"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://developer.mozilla.org/en-US/",
+        "title": "developer.mozilla.org"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://developer.mozilla.org/en-US/",
+        "title": "developer.mozilla.org"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://developer.mozilla.org/en-US/",
+        "title": "developer.mozilla.org"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://developer.mozilla.org/en-US/",
+        "title": "developer.mozilla.org"
     },
     {
         "category": "Documentation",

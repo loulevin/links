@@ -8,7 +8,8 @@ export const PageDocumentation = () => {
     ${documentationLinks.map(link => {
       return /*html*/ `
       <div>
-        <div>${link.title}</div>
+        <div><a href="${link.url}" target="_blank">${link.title}</a></div>
+
       </div>
       `
     }).join("")}
