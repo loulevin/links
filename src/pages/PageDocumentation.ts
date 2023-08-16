@@ -8,7 +8,7 @@ export const PageDocumentation = () => {
     ${documentationLinks.map(link => {
       return /*html*/ `
       <div>
-        nnn
+        <div>${link.title}</div>
       </div>
       `
     }).join("")}
