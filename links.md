@@ -107,8 +107,10 @@ https://strapi.io/
 https://starters.tanguay.eu/list
 
 ### Misc
-
+https://www.json.org/json-en.html
 https://cdnjs.com/
+
+
 
 ## 2 Youtube
 
@@ -168,6 +170,8 @@ https://www.youtube.com/@freecodecamp
 https://youtube.com/@coding-kurzundknapp
 https://youtube.com/@ProgrammierenMario
 https://youtube.com/@UnleashedDesign
+
+
 
 ## 3 Tools
 

@@ -1,7 +1,39 @@
 [
-   "documentation" [
-    { }
-   ] 
+    {
+        "category": "Documentation",
+        "subcategory": "Linux",
+        "url": "https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/",
+        "title": "Linux configuration documentaion"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "Linux",
+        "url": "https://devconnected.com/how-to-copy-directory-on-linux/",
+        "title": "How to copy directory on Linux"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://www.w3schools.com/",
+        "title": "W3school"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://developer.mozilla.org/en-US/",
+        "title": "developer.mozilla.org"
+    },
+    {
+        "category": "Tools",
+        "subcategory": "JavaScript",
+        "url": "https://html-css-js.com/js/",
+        "title": "Online JavaScript Tools"
+    },
+    {
+        "category": "Tools",
+        "subcategory": "JavaScript",
+        "url": "https://d3js.org/",
+        "title": "JavaScript library"
+    }
 
-    
 ]

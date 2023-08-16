@@ -17,7 +17,6 @@ body {
   background-color: $color-bg;
   color: $color-font;
   font-family: sans-serif;
-  padding: 2rem;
 
   h1 {
     color: $color-font-accent;
@@ -39,8 +38,7 @@ body {
           color: $color-font-nav;
           text-decoration: none;
           &:hover {
-            background-color: $color-nav-hover;
-            padding: 1rem;
+            // background-color: $color-nav-hover;
             color: $color-font-hover;
           }
           &.active {
@@ -54,7 +52,7 @@ body {
 
 // @media screen and (min-width: 768px) {
 //   nav {
-   
+
 //   }
 // }
 
