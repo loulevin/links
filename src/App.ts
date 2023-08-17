@@ -1,4 +1,5 @@
 import './styles/main.scss';
+import './styles/index.css';
 import { getMenu, getCurrentPage } from './Router';
 
 const siteElem = document.querySelector<HTMLDivElement>('#app');
