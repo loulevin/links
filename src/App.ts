@@ -1,7 +1,10 @@
 import './styles/main.scss';
 import { getMenu, getCurrentPage } from './Router';
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML =/* html */`
+const siteElem = document.querySelector<HTMLDivElement>('#app');
+
+if (siteElem){
+siteElem.innerHTML =/* html */`
 <header>
 	<!-- <h1>Links</h1> -->
 	${getMenu()}
@@ -9,4 +12,4 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML =/* html */`
 <main>
 	${getCurrentPage()}
 </main>
-`;
+`;}

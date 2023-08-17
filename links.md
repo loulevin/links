@@ -98,8 +98,8 @@ Config: https://youtu.be/ZlvtFelM8iY
 https://www.tailwind-variants.org/
 Introduction: https://www.tailwind-variants.org/docs/introduction
 
-
 ### CMS
+
 https://strapi.io/
 
 ### Edward
@@ -107,10 +107,9 @@ https://strapi.io/
 https://starters.tanguay.eu/list
 
 ### Misc
+
 https://www.json.org/json-en.html
 https://cdnjs.com/
-
-
 
 ## 2 Youtube
 
@@ -161,7 +160,9 @@ https://youtu.be/71Yiru5fZQc
 https://youtu.be/ELld-rpVTb4
 
 ### Youtube-Channel
+
 #### english
+
 https://youtube.com/@NetNinja
 https://www.youtube.com/@freecodecamp
 
@@ -170,8 +171,6 @@ https://www.youtube.com/@freecodecamp
 https://youtube.com/@coding-kurzundknapp
 https://youtube.com/@ProgrammierenMario
 https://youtube.com/@UnleashedDesign
-
-
 
 ## 3 Tools
 
@@ -222,6 +221,7 @@ https://miro.com/app/
 https://trello.com/
 
 ### Generator
+
 https://favicon.io/
 
 ### AI/ChatGPT
@@ -268,6 +268,7 @@ https://chartscss.org/
 https://www.chartjs.org/
 
 ### Animation
+
 https://threejs.org/
 
 ### Uploader
@@ -275,7 +276,6 @@ https://threejs.org/
 #### Image
 
 https://imgur.com/#
-
 
 #### Homepage
 
@@ -289,9 +289,9 @@ https://streamlabs.com/de-de/
 https://www.blackmagicdesign.com/products/davinciresolve
 
 ### API
+
 https://apipheny.io/free-api/
 https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API
-
 
 ### Misc
 
@@ -338,7 +338,6 @@ https://www.tutorialrepublic.com/
 https://cs50.harvard.edu/x/2023/
 https://cs50.harvard.edu/web/2020/
 https://scula.io/
-
 
 ### Challenges
 

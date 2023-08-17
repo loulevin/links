@@ -43,26 +43,158 @@
     {
         "category": "Documentation",
         "subcategory": "HTML/CSS",
-        "url": "https://developer.mozilla.org/en-US/",
-        "title": "developer.mozilla.org"
+        "url": "https://css-tricks.com/",
+        "title": "CSS-Tricks"
     },
     {
         "category": "Documentation",
         "subcategory": "HTML/CSS",
-        "url": "https://developer.mozilla.org/en-US/",
-        "title": "developer.mozilla.org"
+        "url": "https://tailwindcss.com/",
+        "title": "Tailwind CSS"
     },
     {
         "category": "Documentation",
         "subcategory": "HTML/CSS",
-        "url": "https://developer.mozilla.org/en-US/",
-        "title": "developer.mozilla.org"
+        "url": "https://wiki.selfhtml.org/wiki/SELFHTML",
+        "title": "SELFHTML Wiki"
     },
     {
         "category": "Documentation",
         "subcategory": "HTML/CSS",
-        "url": "https://developer.mozilla.org/en-US/",
-        "title": "developer.mozilla.org"
+        "url": "https://flexbox.malven.co/",
+        "title": "Flexbox"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://grid.malven.co/",
+        "title": "Grid"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://sass-lang.com/",
+        "title": "SASS Lang"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+        "title": "Grid Guide from CSS-Tricks"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "HTML/CSS",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "title": "Flexbox Guide from CSS-Tricks"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "JavaScript",
+        "url": "https://www.javascripttutorial.net/",
+        "title": "JavaScript Tutorial"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React",
+        "url": "https://react.dev/",
+        "title": "React.dev"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React",
+        "url": "https://reactjs.de/",
+        "title": "Reactjs"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React",
+        "url": "https://usehooks-ts.com/",
+        "title": "React hook library, written in Typescript"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React",
+        "url": "https://legacy.reactjs.org/",
+        "title": "Javascript library for building user interfaces"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React",
+        "url": "https://reactrouter.com/en/main",
+        "title": ""
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React",
+        "url": "https://reactjs.de/artikel/react-tutorial-deutsch/",
+        "title": "React Tutorial für Einsteiger (German)"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "React - UI",
+        "url": "https://www.agnosticui.com/",
+        "title": "AgnosticUI"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "Markdown",
+        "url": "https://www.markdownguide.org/",
+        "title": "Markdown Guide"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "Markdown",
+        "url": "https://markdown-syntax.de/Was-ist-Markdown/",
+        "title": "Markdown Syntax (German)"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://styled-components.com/",
+        "title": "styled-components"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://uiverse.io/",
+        "title": "CSS Elemente for any projects"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://codyhouse.co/",
+        "title": "Web Design made simple"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://themesberg.com/templates/free",
+        "title": "Themes and Templates (free)"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://designmodo.github.io/Flat-UI/",
+        "title": "Flat UI"
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://mui-treasury.com/",
+        "title": ""
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "UI",
+        "url": "https://medialoot.com/free-themes/css-components/",
+        "title": ""
+    },
+    {
+        "category": "Documentation",
+        "subcategory": "",
+        "url": "",
+        "title": ""
     },
     {
         "category": "Tools",
