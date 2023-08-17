@@ -8,7 +8,7 @@ export const PageDocumentation = () => {
     ${documentationLinks.map(link => {
       return /*html*/ `
       <div>
-        <div><a href="${link.url}" target="_blank">${link.title}</a></div>
+        <div><a href="${link.url}" target="_blank" class="">${link.title}</a></div>
 
       </div>
       `

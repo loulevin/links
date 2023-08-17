@@ -17,35 +17,45 @@ body {
   background-color: $color-bg;
   color: $color-font;
   font-family: sans-serif;
+}
 
-  h1 {
-    color: $color-font-accent;
-    margin-bottom: 1rem;
-  }
+h1 {
+  color: $color-font-accent;
+  margin-bottom: 1rem;
+}
 
-  nav {
-    padding: 2rem;
-    margin-bottom: 1rem;
-    background-color: $color-bg-accent;
-    padding: 1rem;
-    ul {
-      display: flex;
-      justify-content: center;
-      list-style-type: none;
-      gap: 1rem;
-      li {
-        a {
-          color: $color-font-nav;
-          text-decoration: none;
-          &:hover {
-            // background-color: $color-nav-hover;
-            color: $color-font-hover;
-          }
-          &.active {
-            color: $color-font-accent;
-          }
+nav {
+  padding: 2rem;
+  margin-bottom: 1rem;
+  background-color: $color-bg-accent;
+  padding: 1rem;
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 1rem;
+    li {
+      a {
+        color: $color-font-nav;
+        text-decoration: none;
+        &:hover {
+          // background-color: $color-nav-hover;
+          color: $color-font-hover;
+        }
+        &.active {
+          color: $color-font-accent;
         }
       }
     }
   }
+}
+
+main {
+  padding: 0 5rem;
+}
+
+.paigeDocumentation {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  line-height: 0.2rem;
 }
