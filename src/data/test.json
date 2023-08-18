@@ -1,0 +1,250 @@
+[
+  {
+    "head": "Links",
+    "area": [
+      {
+        "section": "Documentation",
+        "subcategory": [
+          {
+            "category": "Linux",
+            "links": [
+              {
+                "url": "https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/",
+                "title": "Linux configuration documentaion",
+                "desciption": ""
+              },
+              {
+                "url": "https://devconnected.com/how-to-copy-directory-on-linux/",
+                "title": "How to copy directory on Linux",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "GIT",
+            "links": [
+              {
+                "url": "https://gist.github.com/rxaviers/7360908",
+                "title": "GIT Emojis",
+                "desciption": ""
+              },
+              {
+                "url": "https://ndpsoftware.com/git-cheatsheet.html#loc=index",
+                "title": "GIT Cheatsheet",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "HTML/CSS",
+            "links": [
+              {
+                "url": "https://www.w3schools.com/",
+                "title": "W3school",
+                "desciption": ""
+              },
+              {
+                "url": "https://developer.mozilla.org/en-US/",
+                "title": "developer.mozilla.org",
+                "desciption": ""
+              },
+              {
+                "url": "https://css-tricks.com/",
+                "title": "CSS-Tricks",
+                "desciption": ""
+              },
+              {
+                "url": "https://tailwindcss.com/",
+                "title": "Tailwind CSS",
+                "desciption": ""
+              },
+              {
+                "url": "https://wiki.selfhtml.org/wiki/SELFHTML",
+                "title": "SELFHTML Wiki",
+                "desciption": ""
+              },
+              {
+                "url": "https://flexbox.malven.co/",
+                "title": "Flexbox",
+                "desciption": ""
+              },
+              {
+                "url": "https://grid.malven.co/",
+                "title": "Grid",
+                "desciption": ""
+              },
+              {
+                "url": "https://sass-lang.com/",
+                "title": "SASS Lang",
+                "desciption": ""
+              },
+              {
+                "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+                "title": "Grid Guide from CSS-Tricks",
+                "desciption": ""
+              },
+              {
+                "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+                "title": "Flexbox Guide from CSS-Tricks",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "JavaScript",
+            "links": [
+              {
+                "url": "https://www.javascripttutorial.net/",
+                "title": "JavaScript Tutorial",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "React",
+            "links": [
+              {
+                "url": "https://react.dev/",
+                "title": "React.dev",
+                "desciption": ""
+              },
+              {
+                "url": "https://reactjs.de/",
+                "title": "Reactjs",
+                "desciption": ""
+              },
+              {
+                "url": "https://usehooks-ts.com/",
+                "title": "React hook library, written in Typescript",
+                "desciption": ""
+              },
+              {
+                "url": "https://legacy.reactjs.org/",
+                "title": "Javascript library for building user interfaces",
+                "desciption": ""
+              },
+              {
+                "url": "https://reactrouter.com/en/main",
+                "title": "React Router",
+                "desciption": ""
+              },
+              {
+                "url": "https://reactjs.de/artikel/react-tutorial-deutsch/",
+                "title": "React Tutorial für Einsteiger (German)",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "React - UI",
+            "links": [
+              {
+                "url": "https://www.agnosticui.com/",
+                "title": "AgnosticUI",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Markdown",
+            "links": [
+              {
+                "url": "https://www.agnosticui.com/",
+                "title": "AgnosticUI",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "UI",
+            "links": [
+              {
+                "url": "https://styled-components.com/",
+                "title": "styled-components",
+                "desciption": ""
+              },
+              {
+                "url": "https://uiverse.io/",
+                "title": "CSS Elemente for any projects",
+                "desciption": ""
+              },
+              {
+                "url": "https://codyhouse.co/",
+                "title": "Web Design made simple",
+                "desciption": ""
+              },
+              {
+                "url": "https://themesberg.com/templates/free",
+                "title": "Themes and Templates (free)",
+                "desciption": ""
+              },
+              {
+                "url": "https://designmodo.github.io/Flat-UI/",
+                "title": "Flat UI",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Tools",
+        "subcategory": [
+          {
+            "category": "Onlinecoding",
+            "links": [
+              {
+                "url": "https://developer.mozilla.org/en-US/play",
+                "title": "Onlinecoder from developer.mozilla",
+                "desciption": ""
+              },
+              {
+                "url": "https://codepen.io/",
+                "title": "Codepen",
+                "desciption": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Useful",
+        "subcategory": [
+          {
+            "category": "HTML/CSS",
+            "links": [
+              {
+                "url": "https://developer.mozilla.org/en-US/play",
+                "title": "Onlinecoder from developer.mozilla",
+                "desciption": ""
+              },
+              {
+                "url": "https://codepen.io/",
+                "title": "Codepen",
+                "desciption": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Youtube",
+        "subcategory": [{}]
+      },
+      {
+        "section": "Interest",
+        "subcategory": [{}]
+      }
+    ]
+  }
+]

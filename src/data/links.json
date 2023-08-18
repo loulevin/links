@@ -1,212 +1,272 @@
 [
-    {
-        "category": "Documentation",
-        "subcategory": "Linux",
-        "url": "https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/",
-        "title": "Linux configuration documentaion"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "Linux",
-        "url": "https://devconnected.com/how-to-copy-directory-on-linux/",
-        "title": "How to copy directory on Linux"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "GIT",
-        "url": "https://gist.github.com/rxaviers/7360908",
-        "title": "GIT Emojis"
-    },  {
-        "category": "Documentation",
-        "subcategory": "GIT",
-        "url": "https://ndpsoftware.com/git-cheatsheet.html#loc=index",
-        "title": "GIT Cheatsheet"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "http://justinhileman.info/article/git-pretty/git-pretty.png",
-        "title": "GIT Command Schema"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://www.w3schools.com/",
-        "title": "W3school"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://developer.mozilla.org/en-US/",
-        "title": "developer.mozilla.org"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://css-tricks.com/",
-        "title": "CSS-Tricks"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://tailwindcss.com/",
-        "title": "Tailwind CSS"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://wiki.selfhtml.org/wiki/SELFHTML",
-        "title": "SELFHTML Wiki"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://flexbox.malven.co/",
-        "title": "Flexbox"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://grid.malven.co/",
-        "title": "Grid"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://sass-lang.com/",
-        "title": "SASS Lang"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
-        "title": "Grid Guide from CSS-Tricks"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "HTML/CSS",
-        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-        "title": "Flexbox Guide from CSS-Tricks"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "JavaScript",
-        "url": "https://www.javascripttutorial.net/",
-        "title": "JavaScript Tutorial"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React",
-        "url": "https://react.dev/",
-        "title": "React.dev"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React",
-        "url": "https://reactjs.de/",
-        "title": "Reactjs"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React",
-        "url": "https://usehooks-ts.com/",
-        "title": "React hook library, written in Typescript"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React",
-        "url": "https://legacy.reactjs.org/",
-        "title": "Javascript library for building user interfaces"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React",
-        "url": "https://reactrouter.com/en/main",
-        "title": ""
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React",
-        "url": "https://reactjs.de/artikel/react-tutorial-deutsch/",
-        "title": "React Tutorial für Einsteiger (German)"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "React - UI",
-        "url": "https://www.agnosticui.com/",
-        "title": "AgnosticUI"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "Markdown",
-        "url": "https://www.markdownguide.org/",
-        "title": "Markdown Guide"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "Markdown",
-        "url": "https://markdown-syntax.de/Was-ist-Markdown/",
-        "title": "Markdown Syntax (German)"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://styled-components.com/",
-        "title": "styled-components"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://uiverse.io/",
-        "title": "CSS Elemente for any projects"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://codyhouse.co/",
-        "title": "Web Design made simple"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://themesberg.com/templates/free",
-        "title": "Themes and Templates (free)"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://designmodo.github.io/Flat-UI/",
-        "title": "Flat UI"
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://mui-treasury.com/",
-        "title": ""
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "UI",
-        "url": "https://medialoot.com/free-themes/css-components/",
-        "title": ""
-    },
-    {
-        "category": "Documentation",
-        "subcategory": "",
-        "url": "",
-        "title": ""
-    },
-    {
-        "category": "Tools",
-        "subcategory": "JavaScript",
-        "url": "https://html-css-js.com/js/",
-        "title": "Online JavaScript Tools"
-    },
-    {
-        "category": "Tools",
-        "subcategory": "JavaScript",
-        "url": "https://d3js.org/",
-        "title": "JavaScript library"
-    }
-
+  {
+    "category": "Documentation",
+    "subcategory": "Linux",
+    "url": "https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/",
+    "title": "Linux configuration documentaion"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Linux",
+    "url": "https://devconnected.com/how-to-copy-directory-on-linux/",
+    "title": "How to copy directory on Linux"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "GIT",
+    "url": "https://gist.github.com/rxaviers/7360908",
+    "title": "GIT Emojis"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "GIT",
+    "url": "https://ndpsoftware.com/git-cheatsheet.html#loc=index",
+    "title": "GIT Cheatsheet"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "http://justinhileman.info/article/git-pretty/git-pretty.png",
+    "title": "GIT Command Schema"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://www.w3schools.com/",
+    "title": "W3school"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://developer.mozilla.org/en-US/",
+    "title": "developer.mozilla.org"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://css-tricks.com/",
+    "title": "CSS-Tricks"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://tailwindcss.com/",
+    "title": "Tailwind CSS"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://wiki.selfhtml.org/wiki/SELFHTML",
+    "title": "SELFHTML Wiki"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://flexbox.malven.co/",
+    "title": "Flexbox"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://grid.malven.co/",
+    "title": "Grid"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://sass-lang.com/",
+    "title": "SASS Lang"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+    "title": "Grid Guide from CSS-Tricks"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "HTML/CSS",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "title": "Flexbox Guide from CSS-Tricks"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "JavaScript",
+    "url": "https://www.javascripttutorial.net/",
+    "title": "JavaScript Tutorial"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React",
+    "url": "https://react.dev/",
+    "title": "React.dev"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React",
+    "url": "https://reactjs.de/",
+    "title": "Reactjs"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React",
+    "url": "https://usehooks-ts.com/",
+    "title": "React hook library, written in Typescript"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React",
+    "url": "https://legacy.reactjs.org/",
+    "title": "Javascript library for building user interfaces"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React",
+    "url": "https://reactrouter.com/en/main",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React",
+    "url": "https://reactjs.de/artikel/react-tutorial-deutsch/",
+    "title": "React Tutorial für Einsteiger (German)"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "React - UI",
+    "url": "https://www.agnosticui.com/",
+    "title": "AgnosticUI"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Markdown",
+    "url": "https://www.markdownguide.org/",
+    "title": "Markdown Guide"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Markdown",
+    "url": "https://markdown-syntax.de/Was-ist-Markdown/",
+    "title": "Markdown Syntax (German)"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://styled-components.com/",
+    "title": "styled-components"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://uiverse.io/",
+    "title": "CSS Elemente for any projects"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://codyhouse.co/",
+    "title": "Web Design made simple"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://themesberg.com/templates/free",
+    "title": "Themes and Templates (free)"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://designmodo.github.io/Flat-UI/",
+    "title": "Flat UI"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://mui-treasury.com/",
+    "title": "Mui Treasury"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://medialoot.com/free-themes/css-components/",
+    "title": "Free CSS Components"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "UI",
+    "url": "https://froala.com/",
+    "title": "Froala - WYSIWYG HTML Editor"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Bootstrap",
+    "url": "https://getbootstrap.com/",
+    "title": "Bootstrap"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Bootstrap-UI",
+    "url": "https://designrevision.com/downloads/shards/",
+    "title": "Designrevision - modern UI Toolkit"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Bootstrap-UI",
+    "url": "https://mdbootstrap.com/",
+    "title": "MDBootstrap - UI Kits"
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "Tailwind",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Documentation",
+    "subcategory": "",
+    "url": "",
+    "title": ""
+  },
+  {
+    "category": "Tools",
+    "subcategory": "JavaScript",
+    "url": "https://html-css-js.com/js/",
+    "title": "Online JavaScript Tools"
+  },
+  {
+    "category": "Tools",
+    "subcategory": "JavaScript",
+    "url": "https://d3js.org/",
+    "title": "JavaScript library"
+  }
 ]
