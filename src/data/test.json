@@ -149,13 +149,13 @@
             "category": "Markdown",
             "links": [
               {
-                "url": "https://www.agnosticui.com/",
-                "title": "AgnosticUI",
+                "url": "https://www.markdownguide.org/",
+                "title": "Markdown Guide",
                 "desciption": ""
               },
               {
-                "url": "",
-                "title": "",
+                "url": "https://markdown-syntax.de/Was-ist-Markdown/",
+                "title": "Markdown Syntax (German)",
                 "desciption": ""
               }
             ]
@@ -189,12 +189,158 @@
                 "desciption": ""
               },
               {
+                "url": "https://mui-treasury.com/",
+                "title": "Mui Treasury",
+                "desciption": ""
+              },
+              {
+                "url": "https://medialoot.com/free-themes/css-components/",
+                "title": "Free CSS Components",
+                "desciption": ""
+              },
+              {
+                "url": "https://froala.com/",
+                "title": "Froala - WYSIWYG HTML Editor",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Bootstrap",
+            "links": [
+              {
+                "url": "https://getbootstrap.com/",
+                "title": "Bootstrap",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Bootstrap-UI",
+            "links": [
+              {
+                "url": "https://designrevision.com/downloads/shards/",
+                "title": "Designrevision - modern UI Toolkit",
+                "desciption": ""
+              },
+              {
+                "url": "https://mdbootstrap.com/",
+                "title": "MDBootstrap - UI Kits",
+                "desciption": ""
+              },
+              {
+                "url": "https://froala.com/design-blocks/",
+                "title": "Froala",
+                "desciption": "Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beatiful websites"
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Tailwind",
+            "links": [
+              {
+                "url": "https://tailwindcss.com/",
+                "title": "Tailwind",
+                "desciption": ""
+              },
+              {
+                "url": "https://nerdcave.com/tailwind-cheat-sheet",
+                "title": "Tailwind Cheat Sheet",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Tailwind-UI",
+            "links": [
+              {
+                "url": "https://daisyui.com/",
+                "title": "daisyUI",
+                "desciption": "The most popular component library for Tailwind CSS"
+              },
+              {
+                "url": "https://www.tailwindtoolbox.com/",
+                "title": "Tailwind Toolbox",
+                "desciption": "Free Tailwind CSS Templates, Component and Resources"
+              },
+              {
+                "url": "https://tailwindtemplates.io/",
+                "title": "Tailwind Templates",
+                "desciption": ""
+              },
+              {
+                "url": "https://merakiui.com/",
+                "title": "Merakiui",
+                "desciption": "Build your websites with elegant, modern and customizable UI components"
+              },
+              {
+                "url": "https://www.tailwind-kit.com/",
+                "title": "Tailwind-kit",
+                "desciption": "Tail-kit Components ands templates for Tailwind CSS 3.0"
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "https://kutty.netlify.app/",
+                "title": "",
+                "desciption": ""
+              },
+              {
                 "url": "",
                 "title": "",
                 "desciption": ""
               }
             ]
           }
+          
         ]
       },
       {

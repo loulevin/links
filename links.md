@@ -199,6 +199,7 @@ https://react-icons.github.io/react-icons
 https://boxicons.com/
 https://fontawesome.com/
 https://lordicon.com/
+https://iconify.design/
 
 ### JavaScript
 
@@ -223,6 +224,7 @@ https://trello.com/
 ### Generator
 
 https://favicon.io/
+https://www.mockaroo.com/
 
 ### AI/ChatGPT
 
@@ -266,6 +268,7 @@ https://vitejs.dev/
 https://vitepress.dev/
 https://chartscss.org/
 https://www.chartjs.org/
+https://astro.build/
 
 ### Animation
 
