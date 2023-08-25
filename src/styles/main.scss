@@ -50,6 +50,33 @@ nav {
   }
 }
 
+.container {
+  padding: 0 10%;
+  display: flex;
+  flex-wrap: wrap;
+  .card {
+    border: 2px solid red;
+
+    padding-left: 0.4rem;
+    width: 100%;
+    height: auto;
+    h2 {
+      display: flex;
+      justify-content: center;
+      margin: 0.5rem 0;
+      font-size: 1.3rem;
+    }
+    .link {
+      
+      padding: 0.2rem;
+      a, p{
+        display: flex;
+        justify-content: center;
+      }
+    }
+  }
+}
+
 main {
   padding: 0 5rem;
 }
@@ -58,4 +85,20 @@ main {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   line-height: 0.2rem;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    .card {
+      width: 50%;
+    }
+  }
+}
+@media screen and (min-width: 1280px) {
+  .container {
+    .card {
+      width: 33%;
+      // height: 20rem;
+    }
+  }
 }

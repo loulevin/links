@@ -298,6 +298,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API
 
 ### Misc
 
+https://auth0.com/
+https://flameshot.org/
 https://loremflickr.com/
 https://github.com/bradtraversy/design-resources-for-developers
 https://www.mockaroo.com/

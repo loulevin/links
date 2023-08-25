@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #999;
+  color: #111;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #87cbb9;
+  margin-bottom: 1rem;
+}
+
+nav {
+  padding: 2rem;
+  margin-bottom: 1rem;
+  background-color: #444;
+  padding: 1rem;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  gap: 1rem;
+}
+nav ul li a {
+  color: #aaa;
+  text-decoration: none;
+}
+nav ul li a:hover {
+  color: black;
+}
+nav ul li a.active {
+  color: #87cbb9;
+}
+
+.container {
+  padding: 0 10%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container .card {
+  border: 2px solid red;
+  padding-left: 0.4rem;
+  width: 100%;
+  height: auto;
+}
+.container .card h2 {
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem 0;
+  font-size: 1.3rem;
+}
+.container .card .link {
+  padding: 0.2rem;
+}
+.container .card .link a, .container .card .link p {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  padding: 0 5rem;
+}
+
+.paigeDocumentation {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  line-height: 0.2rem;
+}
+
+@media screen and (min-width: 768px) {
+  .container .card {
+    width: 50%;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .container .card {
+    width: 33%;
+  }
+}/*# sourceMappingURL=main.css.map */
