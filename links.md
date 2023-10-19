@@ -4,112 +4,123 @@
 
 ### Linux
 
-https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/
-https://devconnected.com/how-to-copy-directory-on-linux/
+[*] https://www.ionos.de/digitalguide/server/konfiguration/linux-befehle-terminal-kommandos-im-ueberblick/
+[*] https://devconnected.com/how-to-copy-directory-on-linux/
 
 ### GIT
 
-https://gist.github.com/rxaviers/7360908
-https://ndpsoftware.com/git-cheatsheet.html#loc=index
-http://justinhileman.info/article/git-pretty/git-pretty.png
+[*] https://gist.github.com/rxaviers/7360908
+[*] https://ndpsoftware.com/git-cheatsheet.html#loc=index
+[*] http://justinhileman.info/article/git-pretty/git-pretty.png
+[] https://ohshitgit.com/
 
 ### HTML/CSS
 
-https://www.w3schools.com/
-https://developer.mozilla.org/en-US/
-https://css-tricks.com/
-https://tailwindcss.com/
-https://wiki.selfhtml.org/wiki/SELFHTML
-https://flexbox.malven.co/
-https://grid.malven.co/
-https://sass-lang.com/
+[*] https://www.w3schools.com/
+[*] https://developer.mozilla.org/en-US/
+[*] https://css-tricks.com/
+[*] https://tailwindcss.com/
+[*] https://wiki.selfhtml.org/wiki/SELFHTML
+[*] https://flexbox.malven.co/
+[*] https://grid.malven.co/
+[*] https://sass-lang.com/
 
-https://css-tricks.com/snippets/css/complete-guide-grid/
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[*] https://css-tricks.com/snippets/css/complete-guide-grid/
+[*] https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### JavaScript
 
-https://www.javascripttutorial.net/
+[*] https://www.javascripttutorial.net/
 
 ### React
 
-https://react.dev/
-https://reactjs.de/
-https://usehooks-ts.com/
-https://legacy.reactjs.org/
-https://reactrouter.com/en/main
+[*] https://react.dev/
+[*] https://reactjs.de/
+[*] https://usehooks-ts.com/
+[*] https://legacy.reactjs.org/
+[*] https://reactrouter.com/en/main
+[] https://create-react-app.dev/
 
-https://reactjs.de/artikel/react-tutorial-deutsch/
+[*] https://reactjs.de/artikel/react-tutorial-deutsch/
 
 #### UI
 
-https://www.agnosticui.com/
+[*] https://www.agnosticui.com/
 
 ### Markdown
 
-https://markdown-syntax.de/Was-ist-Markdown/
-https://www.markdownguide.org/
+[*] https://markdown-syntax.de/Was-ist-Markdown/
+[*] https://www.markdownguide.org/
 
 ### UI
 
-https://styled-components.com/
-https://uiverse.io/
-https://codyhouse.co/
-https://themesberg.com/templates/free
-https://designmodo.github.io/Flat-UI/
-https://mui-treasury.com/
-https://medialoot.com/free-themes/css-components/
+[*] https://styled-components.com/
+[*] https://uiverse.io/
+[*] https://codyhouse.co/
+[*] https://themesberg.com/templates/free
+[*] https://designmodo.github.io/Flat-UI/
+[*] https://mui-treasury.com/
+[*] https://medialoot.com/free-themes/css-components/
 
 ### Bootstrap
 
-https://getbootstrap.com/
+[*] https://getbootstrap.com/
 
 #### UI
 
-https://froala.com/design-blocks/
-https://designrevision.com/downloads/shards/
-https://mdbootstrap.com/
+[*] https://froala.com/design-blocks/
+[*] https://designrevision.com/downloads/shards/
+[*] https://mdbootstrap.com/
 
 ### Tailwind
 
-https://tailwindcss.com/
-https://nerdcave.com/tailwind-cheat-sheet
+[*] https://tailwindcss.com/
+[*] https://nerdcave.com/tailwind-cheat-sheet
 
 #### UI
 
-https://daisyui.com/
-https://www.tailwindtoolbox.com/
-https://kutty.netlify.app/
-https://tailwindtemplates.io/
-https://merakiui.com/
-https://www.tailwind-kit.com/
-https://kitwind.io/products/kometa/components/
-https://wickedblocks.dev/
-https://www.hyperui.dev/
-https://headlessui.com/
-https://ui.shadcn.com/
-https://www.radix-ui.com/
+[*] https://daisyui.com/
+[*] https://www.tailwindtoolbox.com/
+[*] https://kutty.netlify.app/
+[*] https://tailwindtemplates.io/
+[*] https://merakiui.com/
+[*] https://www.tailwind-kit.com/
+[*] https://kitwind.io/products/kometa/components/
+[*] https://wickedblocks.dev/
+[*] https://www.hyperui.dev/
+[*] https://headlessui.com/
+[*] https://ui.shadcn.com/
+[*] https://www.radix-ui.com/
 
 #### Plugin
 
-https://www.npmjs.com/package/eslint-plugin-tailwindcss
-Config: https://youtu.be/ZlvtFelM8iY
+[*] https://www.npmjs.com/package/eslint-plugin-tailwindcss
+[*] Config: https://youtu.be/ZlvtFelM8iY
 
-https://www.tailwind-variants.org/
-Introduction: https://www.tailwind-variants.org/docs/introduction
+[*] https://www.tailwind-variants.org/
+[*] Introduction: https://www.tailwind-variants.org/docs/introduction
 
 ### CMS
 
-https://strapi.io/
+[*] https://strapi.io/
+[ ] https://appwrite.io/
+[ ] https://pocketbase.io/
+[ ] https://supabase.com/
 
 ### Edward
 
-https://starters.tanguay.eu/list
+[*] https://starters.tanguay.eu/list
+[] https://tanguay-eu.vercel.app/howtos
+
+### Package Manager
+
+https://www.npmjs.com/
+https://nodemon.io/
 
 ### Misc
 
-https://www.json.org/json-en.html
-https://cdnjs.com/
+[*] https://www.json.org/json-en.html
+[*] https://cdnjs.com/
 
 ## 2 Youtube
 
@@ -123,15 +134,21 @@ https://youtu.be/CQuTF-bkOgc <Tailwind vs MUI vs Bootstrap vs Chakra>
 https://youtu.be/lk99tsBF9Kw <Build a complete responsivve Website in HTML and CSS>
 https://youtu.be/qFdJsYiCcPI
 https://youtu.be/yn6vFCRkC3c
+https://youtu.be/nqNIy8HkEQ8?si=ZoVzcm2UaWa38MWJ <Tailwind CSS Tipps, Tricks & Best Practices>
 
 ### Javascript
 
 https://www.youtube.com/watch?v=3CBD5JZJJKw
+https://www.youtube.com/watch?v=dtKciwk_si4
 
 ### Mern Stack
 
 https://youtu.be/enc4AZeTsFo
 https://youtu.be/BiDoB0ytF0E
+
+### React
+
+https://youtu.be/FJDVKeh7RJI?si=NQ1tqM7HDJhwDNP3
 
 ### Markdown
 
@@ -149,6 +166,7 @@ https://www.youtube.com/watch?v=agbh1wbfJt8
 ### UI/UX
 
 https://www.youtube.com/watch?v=yYwEnLYT55c
+https://www.youtube.com/watch?v=BZ0QER_0ZWI
 
 ### Shorts
 
@@ -156,8 +174,10 @@ https://www.youtube.com/shorts/r9NUdB3HbHI
 
 ### Misc
 
+https://youtu.be/qBOz6TpYAOg?si=KYwBRt5YioFpVtGe
 https://youtu.be/71Yiru5fZQc
 https://youtu.be/ELld-rpVTb4
+https://youtu.be/CAeWjoP525M?si=80EjLlaBJEI5d7n1
 
 ### Youtube-Channel
 
@@ -176,12 +196,12 @@ https://youtube.com/@UnleashedDesign
 
 ### Onlinecoding
 
-https://developer.mozilla.org/en-US/play
-https://codepen.io/
+[*] https://developer.mozilla.org/en-US/play
+[*] https://codepen.io/
 
 ### HMTL
 
-https://html-css-js.com/html/generator/
+[*] https://html-css-js.com/html/generator/
 
 ### CSS
 
@@ -206,6 +226,12 @@ https://iconify.design/
 https://html-css-js.com/js/
 https://d3js.org/
 
+#### Module Bundler
+
+https://webpack.js.org/
+https://rollupjs.org/
+https://parceljs.org/
+
 ### Converter
 
 https://jsonformatter.org/
@@ -220,6 +246,11 @@ https://bit.dev/
 https://github.com/florinpop17/app-ideas
 https://miro.com/app/
 https://trello.com/
+
+### UI Building
+
+https://storybook.js.org/
+https://realtimecolors.com/
 
 ### Generator
 
@@ -264,15 +295,17 @@ https://vitejs.dev/
 https://html5up.net/
 https://picocss.com/
 https://gohugo.io/
-https://vitejs.dev/
+
 https://vitepress.dev/
 https://chartscss.org/
 https://www.chartjs.org/
 https://astro.build/
+https://expressjs.com/
 
 ### Animation
 
 https://threejs.org/
+https://greensock.com/
 
 ### Uploader
 
@@ -295,6 +328,7 @@ https://www.blackmagicdesign.com/products/davinciresolve
 
 https://apipheny.io/free-api/
 https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API
+https://swapi.dev/
 
 ### Misc
 
@@ -343,11 +377,13 @@ https://www.tutorialrepublic.com/
 https://cs50.harvard.edu/x/2023/
 https://cs50.harvard.edu/web/2020/
 https://scula.io/
+https://fireship.io/courses/js/
 
 ### Challenges
 
 https://leetcode.com/
 https://www.frontendmentor.io/challenges
+https://leetcode.com/studyplan/30-days-of-javascript/
 
 ### Templates
 
@@ -389,6 +425,7 @@ https://learn.microsoft.com/de-de/visualstudio/get-started/csharp/tutorial-wpf?v
 ### Codepan
 
 https://codepen.io/drbrain4web/pen/bGNzOwR < SVG Hamburger
+https://codepen.io/andyadams/pen/wNjxMN
 
 ### Github
 
@@ -402,6 +439,10 @@ https://www.color-blindness.com/coblis-color-blindness-simulator/
 
 ## 5 Interest
 
+### News
+
+https://thisweekinreact.com/
+
 ### Articles
 
 https://www.w3.org/WAI/tutorials/images/decision-tree/
@@ -414,6 +455,12 @@ https://www.buero-kaizen.de/ordnerstruktur/
 https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
 https://www.brandfordtech.com/posts/mantine-ui-the-ultimate-guide-to-building-modern-react-apps-with-the-fastest-and-most?expand_article=1
 
+https://medium.com/android-news/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b
+
+https://sushmithavootukuri.medium.com/difference-between-window-document-and-screen-in-javascript-757a65b25e9a
+
+https://www.geeksforgeeks.org/differences-between-functional-components-and-class-components/
+
 https://www.imperva.com/learn/performance/lazy-loading/
 
 ### SEO
@@ -424,7 +471,11 @@ https://www.searchenginejournal.com/seo-responsive-web-design-benefits/211264/#c
 
 https://www.knowledgehut.com/blog/web-development/package-json-vs-package-lock-json
 https://blog.coodoo.io/fragen-rund-um-die-package-lock-json-e7ff95fe4d6f
-https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json
+https://stackoverf.com/questions/44297803/what-is-the-role-of-the-package-lock-json
+
+### Workspace
+
+https://idx.dev/
 
 ### Clouds
 
@@ -449,6 +500,7 @@ https://www.keybr.com/
 
 ###### Misc
 
+https://www.matheretter.de/wiki/division-mit-rest
 https://getbem.com/
 https://www.arduino.cc/pro/
 https://bitwarden.com/de-DE/products/personal/
@@ -459,6 +511,10 @@ https://lawsofux.com/aesthetic-usability-effect/
 https://hackdesign.org/
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-de
+
+## 6 Jobs
+
+### Jobmarket
 
 ###### unkown
 
@@ -476,3 +532,45 @@ https://kysely.dev/
 https://pnpm.io/
 https://snappify.com/
 https://www.npmjs.com/package/nodemon
+
+
+
+
+###### unsortierd 2
+
+https://github.com/panaverse/learn-nextjs
+https://dashbird.io/
+https://www.toools.design/
+https://www.redhat.com/en
+https://www.techrepublic.com/
+https://www.npmjs.com/package/json-server
+https://tailwindcomponents.com/gradient-generator/
+https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/
+https://www.freecodecamp.org/news/mutability-vs-immutability-in-javascript
+https://www.mediaevent.de/css/position-fixed.html
+https://developer.paypal.com/home/
+https://github.com/tandpfun/skill-icons#readme
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+https://v7.mantine.dev/
+https://studyflix.de/informatik
+https://www.frontendinterviewhandbook.com/
+https://bun.sh/
+https://www.postman.com/
+https://axios-http.com/docs/intro
+https://frontendmasters.com/courses/algorithms/
+https://onespace.pages.dev/techItems?id=283
+https://flowbite.com/
+https://underscorejs.org/
+https://aoi.js.org/
+https://www.wpgraphql.com/
+https://strapi.io/blog/how-to-build-a-to-do-app-using-next-js-and-strapi
+https://jsoncrack.com/
+https://redis.com/
+https://ohmyz.sh/
+https://iterm2.com/
+https://frontendmasters.com/courses/react-typescript-v2/
+https://auth0.com/
+https://keepass.info/
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+https://de.symbolab.com/
+https://roadmap.sh/

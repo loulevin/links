@@ -325,13 +325,93 @@
               },
               {
                 "url": "https://www.radix-ui.com/",
-                "title": "",
+                "title": "Radix UI",
                 "desciption": ""
               },
               {
                 "url": "https://kutty.netlify.app/",
+                "title": "Kutty",
+                "desciption": "out of Order"
+              },
+              {
+                "url": "",
                 "title": "",
                 "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Tailwind Plugin",
+            "links": [
+              {
+                "url": "https://www.npmjs.com/package/eslint-plugin-tailwindcss",
+                "title": "Eslint Tailwind Plugin",
+                "desciption": "Plugin Eslint for Tailwind"
+              },
+              {
+                "url": "https://youtu.be/ZlvtFelM8iY",
+                "title": "Config for the Eslint Tailwind Plugin",
+                "desciption": "Config Youtube Video from the Eslint Tailwind Plugin"
+              },
+              {
+                "url": "https://www.tailwind-variants.org/",
+                "title": "Tailwind Variants",
+                "desciption": "The power of Tailwind combined with a first class variant API"
+              },
+              {
+                "url": "https://www.tailwind-variants.org/docs/introduction",
+                "title": "Tailwind Variants Introduction",
+                "desciption": "The instroduction for the Tailwind Variants"
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "CMS",
+            "links": [
+              {
+                "url": "https://strapi.io/",
+                "title": "Strapi CMS",
+                "desciption": "Strapi is the leading open-source headles CMS. 100% JavaScript and fully customizable."
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Edward",
+            "links": [
+              {
+                "url": "https://starters.tanguay.eu/list",
+                "title": "Edwards Starter Pages",
+                "desciption": "Edward config for the class different Template-pages"
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "Misc",
+            "links": [
+              {
+                "url": "https://www.json.org/json-en.html",
+                "title": "Json Explane",
+                "desciption": "Explane the structure from json file"
+              },
+              {
+                "url": "https://cdnjs.com/",
+                "title": "cdnjs",
+                "desciption": "?"
               },
               {
                 "url": "",
@@ -340,7 +420,6 @@
               }
             ]
           }
-          
         ]
       },
       {
@@ -360,7 +439,23 @@
                 "desciption": ""
               }
             ]
-          }
+          },
+          {
+            "category": "HTML",
+            "links": [
+              {
+                "url": "https://html-css-js.com/html/generator/",
+                "title": "HTML Generator",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          }          
+        
         ]
       },
       {
@@ -385,11 +480,73 @@
       },
       {
         "section": "Youtube",
-        "subcategory": [{}]
+        "subcategory": [
+          {
+            "category": "",
+            "links": [
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "",
+            "links": [
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          }
+        ]
       },
       {
         "section": "Interest",
-        "subcategory": [{}]
+        "subcategory": [
+          {
+            "category": "",
+            "links": [
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          },
+          {
+            "category": "",
+            "links": [
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              },
+              {
+                "url": "",
+                "title": "",
+                "desciption": ""
+              }
+            ]
+          }
+        ]
       }
     ]
   }
